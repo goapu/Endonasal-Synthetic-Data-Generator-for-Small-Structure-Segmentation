@@ -238,24 +238,4 @@ This project is useful for:
 
 ---
 
-## Citation
 
-If you use this work in a research or development setting, please cite or acknowledge:
-
-**Dilip Goswami, Berlin, Germany**
-
----
-
-## License
-
-Add your preferred license here, for example:
-
-* MIT License
-* Apache-2.0
-* BSD-3-Clause
-
----
-
-## Contact
-
-For research collaboration, adaptation, or improvement of the pipeline, please open an issue or add your contact details here.
